@@ -1,0 +1,10 @@
+pip install tensorflow
+pip install transformers
+pip install pandas
+pip install finance-datareader
+pip install requests
+pip install beautifulsoup4
+pip install scikit-learn
+pip install joblib
+pip install sqlalchemy
+pip install pymysql
